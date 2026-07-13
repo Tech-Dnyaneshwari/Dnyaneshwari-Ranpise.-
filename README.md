@@ -1,2 +1,2 @@
 # Dnyaneshwari-Ranpise.-
-Thus project is my 1st code.
+print("this project is my 1st code")
