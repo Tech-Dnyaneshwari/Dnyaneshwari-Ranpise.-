@@ -1,2 +1,6 @@
-# Dnyaneshwari-Ranpise.-
-Thus project is my 1st code.
+Smart Waste Management System : using AI + Arduino + IoT
+Library Management System :C++
+Student Record Management :C++
+Banking System :C++
+Inventory Management System :C++
+DSA in :C++
